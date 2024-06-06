@@ -27,7 +27,7 @@ The bank customer churn data has 14 columns as follows:
 **Data Analysis and Preparation**:
 
 1.	**Exploratory Data Analysis (EDA)**
--	Performed EDA to understand the data distribution, identify missing values, and detect any outliers. This step involved visualizing data through various plots and summarizing key statistics.
+-	Performed EDA to understand the data distribution and identified missing values. This step involved visualizing data through various plots and summarizing key statistics.
 2.	**Encoding Categorical Variables**
 -	Converted categorical variables into numerical representations using techniques such as one-hot encoding or label encoding to make them suitable for machine learning algorithms.
 3.	**Splitting the Dataset**
@@ -73,7 +73,7 @@ The following performance metrics were used to evaluate the models:
 
 **Results:**
 
-After testing six different machine learning models to predict customer churn, including Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Nearest Neighbor, and XGBoost and after feature engineering and hyperparameter tuning we selected the XGBoost model having highest accuracy of 93% for final prediction.
+After testing six different machine learning models to predict customer churn, including Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Nearest Neighbor, and XGBoost and after performing feature engineering and hyperparameter tuning we selected the XGBoost model having highest accuracy of 93% for final prediction.
 
 ![image](https://github.com/JonathanJacob1809/Bank-Customer-Churn-Analysis/assets/169834300/07617b5b-e355-4966-bca9-13a5f5b3496e)
 
