@@ -73,7 +73,7 @@ The following performance metrics were used to evaluate the models:
 
 **Results:**
 
-After testing six different machine learning models to predict customer churn, including Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Nearest Neighbor, and XGBoost and after performing feature engineering and hyperparameter tuning we selected the XGBoost model having highest accuracy of 93% for final prediction.
+After testing six different machine learning models to predict customer churn, including Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, K-Nearest Neighbor, and XGBoost and after performing feature engineering and hyperparameter tuning we selected the XGBoost model having highest ROC-AUC value of 93% for final prediction.
 
 ![image](https://github.com/JonathanJacob1809/Bank-Customer-Churn-Analysis/assets/169834300/07617b5b-e355-4966-bca9-13a5f5b3496e)
 
