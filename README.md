@@ -81,7 +81,7 @@ After testing six different machine learning models to predict customer churn, i
 
 1.	Feature Insights
    
--	The most influential features identified by the model should be analyzed to understand their impact on customer churn.
+-	The most influential features identified by the model such as Age, EstimatedSalary, Balance, CreditScore, IsActiveMember, NumOfProducts, Tenure and Gender_Male should be analyzed to understand their impact on customer churn.
   
 2.	Targeted Retention Strategies
  	
